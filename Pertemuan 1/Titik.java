@@ -1,4 +1,4 @@
-// MOpearasiTitik.java  22/02/2023
+// Titik.java  22/02/2023
 // Nama : Fauzan Ramadhan Putra (24060121140140)
 // Deskripsi : Kelas untuk titik
 
