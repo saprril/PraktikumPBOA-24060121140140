@@ -5,18 +5,18 @@
 class MOperasiTitik{
 	public static void main(String[] args){
 		Titik t1;
-		OperasiTitik OT;
+		OperasiTitik ot;
 		
 		t1 = new Titik(4,4);
-		OT = new OperasiTitik();
+		ot = new OperasiTitik();
 		
 		System.out.println("titik ("+t1.getAbsis()+", "+t1.getOrdinat()+")");
 		
-		OT.refleksiX(t1);
+		ot.refleksiX(t1);
 	
 		System.out.println("titik setelah refelksi sb X: ("+t1.getAbsis()+", "+t1.getOrdinat()+")");
 		
-		OT.refleksiY(t1);
+		ot.refleksiY(t1);
 		
 		System.out.println("titik setelah refelksi sb y: ("+t1.getAbsis()+", "+t1.getOrdinat()+")");
 	}
