@@ -2,7 +2,7 @@
 // Nama : Fauzan Ramadhan Putra (24060121140140)
 // Deskripsi : kelas untuk titik
 
-class Titik{
+public class Titik{
 	//atribut
 	private double absis;
 	private double ordinat;
