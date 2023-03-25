@@ -6,8 +6,8 @@
 
 package org.main;
 
-import org.bangundatar.*;
-import org.bangunruang.*;
+import org.bangundatar.BujurSangkar;
+import org.bangunruang.Kubus;
 
 public class MKubus {
   public static void main(String[] args){
