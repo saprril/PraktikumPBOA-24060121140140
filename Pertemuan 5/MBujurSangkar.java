@@ -2,7 +2,7 @@
  * Nama File    : MBujurSangkar.java
  * Nama Pembuat : Fauzan Ramadhan Putra
  * NIM          : 24060121140140
- * Deskripsi    : File 5class implementasi untuk menghitung luas bujur sangkar
+ * Deskripsi    : File class implementasi untuk menghitung luas bujur sangkar
  * Tanggal      : 25 Maret 2023
  */
 
